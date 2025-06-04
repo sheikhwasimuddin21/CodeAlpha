@@ -1,0 +1,55 @@
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 25%;
+    cursor: pointer;
+    width:66px;
+    background-color:slategray;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: large;
+ }
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0;
+    padding:  9px ;
+    border: 2px solid black;
+    border-radius: 25px ;
+    font-size: 18px;
+    width: 285px;
+}
+.container{
+    height: 450px;
+    width: 350px;
+    border: 2px solid;
+    background-color:#1a1a1a;
+    border-radius: 25px;
+}
+.equal{
+    background-color: tomato;
+}
+.ac{
+    background-color: #61ff05;
+    font-weight: bolder;
+    color: aliceblue;
+
+}
+.mul{
+    background-color: chocolate;
+}
+
+.sub{
+    background-color: chocolate;
+}
+.divi{
+    background-color: chocolate;
+}
+.add{
+    background-color: chocolate;
+}
+.mod{
+    background-color: chocolate;
+}

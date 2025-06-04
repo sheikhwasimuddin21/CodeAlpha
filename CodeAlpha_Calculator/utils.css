@@ -1,0 +1,15 @@
+.textcenter{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin: auto;
+    
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
